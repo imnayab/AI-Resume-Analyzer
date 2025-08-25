@@ -91,8 +91,6 @@ Setup & Installation 👀
 To run this project, perform the following tasks 😨
 
 Download the code file manually or via git
-
-git clone https://github.com/deepakpadhi986/AI-Resume-Analyzer.git
 Create a virtual environment and activate it (recommended)
 
 Open your command prompt and change your project directory to AI-Resume-Analyzer and run the following command
